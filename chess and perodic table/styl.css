@@ -1,0 +1,30 @@
+td{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+th{
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+}
+table{
+    border-spacing: 0;
+    width: 800px;
+    height: 800px;
+    margin: 0 auto;
+    border: 15px groove rgb(209, 191, 141);
+}
+H1{
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 70PX;
+    width: 26%;
+    text-align: center;
+    border-bottom: 3PX groove rgb(241, 234, 234);
+    padding: 20PX;
+}
+body{
+    
+    background-color: black;
+}

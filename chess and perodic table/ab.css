@@ -1,0 +1,34 @@
+table{
+    /* border: 1px groove black; */
+}
+td{
+    
+    
+    text-align: center;
+    border: 1px solid;
+}
+sup{
+    text-align: start;
+}
+#ab{
+    height: 40px;
+    background-color: brown;
+}
+
+#jk{
+    position: relative;
+    top: 5px;
+    background-color: aquamarine;
+}
+#jk1{
+    background-color: yellow;
+}
+#jk2{
+    background-color:rgb(86, 199, 21) ;
+}
+#jk3{
+    background-color: darkslateblue;
+}
+#jk4{
+    background-color: tomato;
+}
